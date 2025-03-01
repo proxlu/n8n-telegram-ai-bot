@@ -6,8 +6,10 @@ Fluxo contendo um bot do telegram com ia.
 ## Apis gratuitas
 ### Chaves de api necessárias:
 bot: https://t.me/BotFather
+
 ia: https://openrouter.ai/settings/keys
 
 ### Chaves de api opcionais
 responder imagem: https://ocr.space/ocrapi/freekey
+
 responder áudio: https://console.deepgram.com
