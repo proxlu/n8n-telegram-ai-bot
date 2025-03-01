@@ -9,7 +9,7 @@ bot: https://t.me/BotFather
 
 ia: https://openrouter.ai/settings/keys
 
-### Chaves de api opcionais
+### Chaves de api opcionais:
 responder imagem: https://ocr.space/ocrapi/freekey
 
 responder áudio: https://console.deepgram.com
